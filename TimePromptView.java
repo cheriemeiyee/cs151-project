@@ -76,7 +76,7 @@ public class TimePromptView {
 	
 	/**
 	 * Strategy Pattern for Military Time
-	 * @param date
+	 * @param date to display
 	 */
 	 private void displayMilitary(String date)
 	    {
@@ -97,7 +97,7 @@ public class TimePromptView {
 
 	 /**
 	  * Strategy Pattern for Standard Time	
-	  * @param date
+	  * @param date to display
 	  */
 	 private void displayStandard(String date)
 	 	{
