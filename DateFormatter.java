@@ -1,4 +1,5 @@
-@author Himanshu Mehta, Serena Pascual and Cherie Sew
+/**
+ * @author Himanshu Mehta, Serena Pascual and Cherie Sew
  *
  */
 public interface DateFormatter
